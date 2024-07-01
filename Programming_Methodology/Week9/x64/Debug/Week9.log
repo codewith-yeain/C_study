@@ -1,0 +1,6 @@
+﻿  self-review_8-6.c
+C:\PM2023\Week9\self-review_8-6.c(21,17): warning C4477: 'scanf_s' : 서식 문자열 '%99[^\n]'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'size_t'입니다.
+C:\PM2023\Week9\self-review_8-6.c(21,17): message : 이 인수는 버퍼 크기로 사용됩니다.
+C:\PM2023\Week9\self-review_8-6.c(44,17): warning C4477: 'scanf_s' : 서식 문자열 '%1s'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'size_t'입니다.
+C:\PM2023\Week9\self-review_8-6.c(44,17): message : 이 인수는 버퍼 크기로 사용됩니다.
+  Week9.vcxproj -> C:\PM2023\Week9\x64\Debug\Week9.exe
