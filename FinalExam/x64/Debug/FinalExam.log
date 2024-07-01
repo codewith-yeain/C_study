@@ -1,0 +1,4 @@
+﻿  week13.cpp
+week13.obj : error LNK2005: "public: __cdecl GradeBook::GradeBook(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (??0GradeBook@@QEAA@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)이(가) GradeBook.obj에 이미 정의되어 있습니다.
+week13.obj : error LNK2005: "public: class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > __cdecl GradeBook::getCourseName(void)const " (?getCourseName@GradeBook@@QEBA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@XZ)이(가) GradeBook.obj에 이미 정의되어 있습니다.
+C:\PM2023\FinalExam\x64\Debug\FinalExam.exe : fatal error LNK1169: 여러 번 정의된 기호가 있습니다.
