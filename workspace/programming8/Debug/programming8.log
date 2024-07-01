@@ -1,0 +1,4 @@
+﻿  0719_4.c
+C:\c_1600_cyi\workspace\programming8\0719_4.c(7,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+C:\c_1600_cyi\workspace\programming8\0719_4.c(8,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+  programming8.vcxproj -> C:\c_1600_cyi\workspace\programming8\Debug\programming8.exe
